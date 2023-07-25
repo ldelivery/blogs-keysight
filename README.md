@@ -1,9 +1,8 @@
 # Keysight Blog
 
 ## Environments
-- Preview: https://main--blogs-keysight--hlxsites.hlx.page/
-- Live: https://main--blogs-keysight--hlxsites.hlx.live/
-- Prod: https://www.keysight.com/blogs/
+- Preview: https://main--blogs-keysight--ldelivery.hlx.page/
+- Live: https://main--blogs-keysight--ldelivery.hlx.live/
 
 ## Installation
 
